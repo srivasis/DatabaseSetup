@@ -1,0 +1,14 @@
+Username: isrivastava
+OneJira_UNC_FilePath: \\TLPFILER\sharpregr\GAMIFI-SHARE\DAT\V01\ONEJIRA
+Jiraffe_UNC_FilePath: \\TLPFILER\sharpregr\GAMIFI-SHARE\DAT\V01\JIRAFFE
+OneJira_StartDate__FilePath: C:\MongoImport\SQL_Database_Setup\src\OneJira_StartDate.txt
+Jiraffe_StartDate_FilePath: C:\MongoImport\SQL_Database_Setup\src\Jiraffe_StartDate.txt
+SQL_Server_Driver: org.apache.derby.jdbc.EmbeddedDriver
+SQL_Server_URL: jdbc:derby:GamificationDB;
+SQL_Server_Username: isrivastava
+SQL_Server_Password: temp
+Create_Tables: false
+Insert_Rows: true
+SQL_Normalized_Server_URL: jdbc:derby:NormalizedDB;
+Create_Normalized_Tables: false
+Insert_Rows_Normalized_Table: true
